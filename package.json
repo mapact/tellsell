@@ -1,0 +1,15 @@
+{
+  "name": "tellsell",
+  "version": "1.0.0",
+  "description": "Sample Azure AD auth ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jwt-decode": "^2.2.0",
+    "restify": "^8.2.0"
+  }
+}
